@@ -9,7 +9,3 @@
 # migrations use external dependencies or application code.
 #
 # It's strongly recommended that you check this file into your version control system.
-
-ActiveRecord::Schema[7.2].define(version: 2024_09_25_103631) do
-
-end
